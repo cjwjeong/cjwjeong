@@ -10,7 +10,7 @@
 
 
 ### 💡 Interests
-- 🌐 **Web Development:** 
+- 🌐 **Web Development** 
 - 🌍 **Geophysics**
 - 🧠 **Deeplearning**
 
